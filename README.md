@@ -1,5 +1,11 @@
-<h3 align="center">Python Backend Developer.
-  Passionate about becoming a Full-Stack Developer</h3>
+<h1> 💫 About Me: </h1>
+<h3> I am currenty working on Tiffino projects 
+I am looking for collab with frontend dev.
+I am currently learning about Mysql and Flask 
+You can ask me about Api integration and Error solving
+Fun fact I do coding for fun , You can have fun doing it with me </h3>
+
+ <h2> Passionate about becoming a Full-Stack Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshabit&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshabit" /> </p>
 
