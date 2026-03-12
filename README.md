@@ -9,17 +9,9 @@ Fun fact I do coding for fun , You can have fun doing it with me </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshabit&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshabit" /> </p>
 
-- 🔭 I’m currently working as Backend develope. Tiffin Service Management System.(https://github.com/pratikshabit/Tiffino_app)
-
-- 🌱 I’m currently learning **| Flask | SQL | REST API |Django**
-
-- 👨‍💻 All of my projects are available at [https://github.com/pratikshabit](https://github.com/pratikshabit)
-
 - 📫 How to reach me **pratikshakande555@gmail.com**
 
 - 📄 Know about my experiences(Backend Developer Fresher at Qutomsoft Technology)
-
-- ⚡ Fun fact **⚡ Fun fact: I enjoy building backend applications with Python and learning new technologies every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
