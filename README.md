@@ -1,4 +1,3 @@
-
 <h3 align="center">Python Backend Developer.
   Passionate about becoming a Full-Stack Developer</h3>
 
