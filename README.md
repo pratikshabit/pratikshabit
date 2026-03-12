@@ -1,7 +1,8 @@
 
 
 <h1 align="center"> I'm Pratiksha Kande</h1>
-<h3 align="center">Python Backend Developer.Passionate about becoming a Full-Stack Developer</h3>
+<h3 align="center">Python Backend Developer.
+  Passionate about becoming a Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshabit&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshabit" /> </p>
 
